@@ -1,0 +1,15 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+header{
+    background-image: url(images/apple-pie.jpg);
+}
+
+h1{
+    text-align: center;
+}
+
+#recipe p{
+    font-weight: 100;
+}
